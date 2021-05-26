@@ -3,5 +3,6 @@ public class git_test {
         System.out.println("1");
         System.out.println("2");
         System.out.println("hot-fix");
+        System.out.println("merge666");
     }
 }
