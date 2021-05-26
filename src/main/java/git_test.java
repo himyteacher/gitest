@@ -7,5 +7,7 @@ public class git_test {
         System.out.println("h-merge");
         System.out.println("h-mergetest");
         System.out.println("push test");
+        System.out.println("pulltest");
+
     }
 }
