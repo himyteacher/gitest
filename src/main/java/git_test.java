@@ -4,5 +4,7 @@ public class git_test {
         System.out.println("2");
         System.out.println("hot-fix");
         System.out.println("merge666");
+        System.out.println("h-merge");
+        System.out.println("h-mergetest");
     }
 }
